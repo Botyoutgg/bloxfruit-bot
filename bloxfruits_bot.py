@@ -6,9 +6,9 @@ from telegram.ext import (
 )
 
 # ===================== CONFIG =====================
-BOT_TOKEN = "YOUR_BOT_TOKEN_HERE"         # ពី @BotFather
-ADMIN_CHAT_ID = 123456789                  # លេខ ID របស់អ្នក (ពី @userinfobot)
-ABA_QR_IMAGE_URL = "https://your-aba-qr-image-link.com/qr.jpg"  # បញ្ចូល link QR ABA
+BOT_TOKEN = "8743632619:AAGoQBL5NaDn_UV71Ad2SXubKKjiDk_uqGE"         # ពី @BotFather
+ADMIN_CHAT_ID = 6594079594                  # លេខ ID របស់អ្នក (ពី @userinfobot)
+ABA_QR_IMAGE_URL = "https://ibb.co/dJQwhKrZ"  # បញ្ចូល link QR ABA
 ADMIN_USERNAME = "@noreakyour"
 
 # ===================== គណនី (ACCOUNTS) =====================
